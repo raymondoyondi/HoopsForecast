@@ -16,7 +16,7 @@ os.makedirs("models", exist_ok=True)
 
 # Page configuration
 st.set_page_config(
-    page_title="NBA Predictor",
+    page_title="HoopsForecast",
     layout="wide",
     page_icon="🏀",
     initial_sidebar_state="expanded"
@@ -96,7 +96,7 @@ st.markdown("""
     </style>
 """, unsafe_allow_html=True)
 
-st.title("🏀 NBA Player Performance Predictor")
+st.title("🏀 HoopsForecast")
 
 # Data pipeline
 with st.status("🚀 Initializing application...", expanded=True) as status:
