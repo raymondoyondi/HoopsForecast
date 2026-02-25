@@ -1,4 +1,4 @@
-## 🏀 HoopsForecast
+# 🏀 HoopsForecast
 
 An end-to-end data science pipeline that leverages historical NBA data to forecast player statistics for upcoming seasons. This project integrates automated data scraping, feature engineering, and advanced regression modeling to power an interactive visualization dashboard.
 
