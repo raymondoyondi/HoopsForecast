@@ -6,7 +6,7 @@ An end-to-end data science pipeline that leverages historical NBA data to foreca
 
 ## 🚀 Overview
 
-Predicting athletic performance is a complex challenge influenced by aging, team dynamics, and historical trends. The **NBA Player Performance Predictor** addresses this by analyzing over a decade of league data to provide actionable insights for fans, analysts, and fantasy basketball enthusiasts.
+Predicting athletic performance is a complex challenge influenced by aging, team dynamics, and historical trends. **HoopsForecast** addresses this by analyzing over a decade of league data to provide actionable insights for fans, analysts, and fantasy basketball enthusiasts.
 
 ### Key Features
 * **Automated Data Pipeline:** Scrapes and cleans player-per-game stats, advanced metrics, and team standings.
