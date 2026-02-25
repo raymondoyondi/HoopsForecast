@@ -1,4 +1,4 @@
-# NBA Player Performance Predictor
+🏀 HoopsForecast
 
 An end-to-end data science pipeline that leverages historical NBA data to forecast player statistics for upcoming seasons. This project integrates automated data scraping, feature engineering, and advanced regression modeling to power an interactive visualization dashboard.
 
@@ -82,8 +82,8 @@ Our models are evaluated using R-Squared ($R^2$) and MAE (Mean Absolute Error).
 ### Setup
 1.  **Clone the repository:**
     ```bash
-    git clone (https://github.com/raymondoyondi/NBA-Player-Performance-Predictor.git)
-    cd NBA-Player-Performance-Predictor
+    git clone (https://github.com/raymondoyondi/HoopsForecast.git)
+    cd HoopsForecast
     ```
 
 2.  **Create and activate a virtual environment:**
